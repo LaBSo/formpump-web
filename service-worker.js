@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/formpump-web/precache-manifest.38a26167874e59543433770e1591898f.js"
+  "/formpump-web/precache-manifest.2327f64969abe3fcf93187a99d475236.js"
 );
 
 self.addEventListener('message', (event) => {
